@@ -1,2 +1,2 @@
-# grain_market_app
-The Web App for the Nigerian Grain market
+# sell your old stuff onlne
+A simple mobile app to find buyers for your used items..
